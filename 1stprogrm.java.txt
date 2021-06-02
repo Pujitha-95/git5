@@ -2,7 +2,7 @@ Class 1stprogrm
 {
 public static void main(String args[])
 {
-
+int b=10;
 System.out.println("Pujitha");
 }
 }
