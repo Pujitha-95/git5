@@ -1,0 +1,8 @@
+Class 1stprogrm
+{
+public static void main(String args[])
+{
+
+System.out.println("Puji");
+}
+}
